@@ -1,2 +1,1 @@
-# 3d-pyramid-animation
-3D Pyramid CSS Animation
+# 3D Pyramid CSS Animation
